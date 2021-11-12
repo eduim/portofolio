@@ -58,3 +58,19 @@
 		    100%{width:0;opacity:1; }
 		}
 
+.vertical-center {
+
+  display: flex;
+  align-items: center;
+}
+
+.pbutton {
+    background-color: white;
+	border: 1px solid red;
+	border-radius: 20px;
+}
+
+p {
+    word-break: break-all;
+    white-space: normal;
+}
