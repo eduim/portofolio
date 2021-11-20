@@ -74,3 +74,10 @@ p {
     word-break: break-all;
     white-space: normal;
 }
+li.borderless {
+	border-top: 0 none;
+  }
+
+.b-border{
+	border-bottom: 1px solid lightgray;
+}
